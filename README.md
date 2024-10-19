@@ -1,4 +1,4 @@
-Приложение и mongo db был развернуты в docker compose, в Digital Ocean
+Приложение и mongo db были развернуты в docker compose, в Digital Ocean
 
 И доступны по следующему URL:
 
